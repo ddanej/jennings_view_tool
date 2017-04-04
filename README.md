@@ -1,6 +1,6 @@
 # JenningsViewTool
 
-> Various view specific methods for application I use.
+> Various view specific methods for application I use
 
 ## Installation
 
